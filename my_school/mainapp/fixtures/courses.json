@@ -1,0 +1,39 @@
+[
+  {
+    "model": "courseapp.course",
+    "pk": 1,
+    "fields": {
+      "name": "python",
+      "description": "python python python",
+      "date": "2000-12-20",
+      "img": "/img/course1.png",
+      "price": 1000,
+      "author": "Sasha Vidyakov"
+    }
+  },
+  {
+    "model": "courseapp.course",
+    "pk": 2,
+    "fields": {
+      "name": "js",
+      "description": "python python python",
+      "date": "2000-12-20",
+      "img": "/img/course1.png",
+      "price": 3000,
+      "author": "Sasha Vidyakov",
+      "level": "Для старичков"
+    }
+  },
+  {
+    "model": "courseapp.course",
+    "pk": 3,
+    "fields": {
+      "name": "css",
+      "description": "python python python",
+      "date": "2000-12-20",
+      "img": "/img/course1.png",
+      "price": 2000,
+      "author": "Sasha Vidyakov"
+    }
+  }
+]
